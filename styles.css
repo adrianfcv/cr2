@@ -1,0 +1,38 @@
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  color: red;
+}
+
+form {
+  text-align: center;
+}
+
+#calendarResults {
+  text-align: center;
+  background-color: #99ccff;
+  border: 2px solid black;
+}
+
+.container  {
+  border: 5px solid orange;
+  text-align: center;
+}
+
+.head-container {
+    text-align: center;
+}
+
+
+
+table, td {
+  border: 2px solid black;
+}
+
+th {
+  height: 50px;
+  border: 2px solid black;
+}
